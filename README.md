@@ -1,1 +1,1 @@
-# html-Capstone-Proyect
+# html-Capstone-Project
